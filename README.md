@@ -33,6 +33,8 @@
 <br/>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianPerez34)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="ChristianPerez34's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ChristianPerez34&show_icons=true&hide_border=true" />
