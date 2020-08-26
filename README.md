@@ -1,4 +1,5 @@
 ### Hi there, I'm Christian - aka [ChristianPerez34][linkedin] 👋
+![GitHub followers](https://img.shields.io/github/followers/ChristianPerez34?style=social)
 
 ## I'm a Software Engineer
 
@@ -38,6 +39,12 @@
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="ChristianPerez34's Github Stats" src="https://github-readme-stats.christianperez34.vercel.app/api?username=ChristianPerez34&show_icons=true&hide_border=true" />
+</details>
+
+<details>
+  <summary>:zap: Github Activity</summary>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 [linkedin]: https://www.linkedin.com/in/christian-perez-villanueva/
