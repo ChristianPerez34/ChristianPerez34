@@ -37,7 +37,7 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="ChristianPerez34's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ChristianPerez34&show_icons=true&hide_border=true" />
+  <img align="left" alt="ChristianPerez34's Github Stats" src="https://github-readme-stats.christianperez34.vercel.app/api?username=ChristianPerez34&show_icons=true&hide_border=true" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/christian-perez-villanueva/
