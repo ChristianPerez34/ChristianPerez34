@@ -44,6 +44,8 @@
 <details>
   <summary>:zap: Github Activity</summary>
   <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#342](https://github.com//4Catalyzer/flask-resty/issues/342) in [4Catalyzer/flask-resty](https://github.com//4Catalyzer/flask-resty)
+2. ❗️ Opened issue [#342](https://github.com//4Catalyzer/flask-resty/issues/342) in [4Catalyzer/flask-resty](https://github.com//4Catalyzer/flask-resty)
   <!--END_SECTION:activity-->
 </details>
 
