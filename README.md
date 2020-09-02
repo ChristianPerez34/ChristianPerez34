@@ -46,8 +46,8 @@
 <details>
   <summary>:zap: Github Activity</summary>
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com//ChristianPerez34/AutoCryptoClaimer/issues/2) in [ChristianPerez34/AutoCryptoClaimer](https://github.com//ChristianPerez34/AutoCryptoClaimer)
-2. ❗️ Closed issue [#342](https://github.com//4Catalyzer/flask-resty/issues/342) in [4Catalyzer/flask-resty](https://github.com//4Catalyzer/flask-resty)
+1. ❗️ Closed issue [#1](https://github.com//ChristianPerez34/cookiecutter-flask-resty/issues/1) in [ChristianPerez34/cookiecutter-flask-resty](https://github.com//ChristianPerez34/cookiecutter-flask-resty)
+2. ❗️ Closed issue [#2](https://github.com//ChristianPerez34/AutoCryptoClaimer/issues/2) in [ChristianPerez34/AutoCryptoClaimer](https://github.com//ChristianPerez34/AutoCryptoClaimer)
   <!--END_SECTION:activity-->
 </details>
 
