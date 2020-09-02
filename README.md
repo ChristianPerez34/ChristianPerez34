@@ -41,6 +41,8 @@
   <img align="left" alt="ChristianPerez34's Github Stats" src="https://github-readme-stats.christianperez34.vercel.app/api?username=ChristianPerez34&show_icons=true&hide_border=true" />
 </details>
 
+<br/>
+
 <details>
   <summary>:zap: Github Activity</summary>
   <!--START_SECTION:activity-->
