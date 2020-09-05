@@ -46,8 +46,8 @@
 <details>
   <summary>:zap: Github Activity</summary>
   <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1](https://github.com//ChristianPerez34/AutoCryptoClaimer/issues/1) in [ChristianPerez34/AutoCryptoClaimer](https://github.com//ChristianPerez34/AutoCryptoClaimer)
-2. 🗣 Commented on [#1](https://github.com//ChristianPerez34/AutoCryptoClaimer/issues/1) in [ChristianPerez34/AutoCryptoClaimer](https://github.com//ChristianPerez34/AutoCryptoClaimer)
+1. 🎉 Merged PR [#3](https://github.com//ChristianPerez34/AutoCryptoClaimer/pull/3) in [ChristianPerez34/AutoCryptoClaimer](https://github.com//ChristianPerez34/AutoCryptoClaimer)
+2. ❗️ Closed issue [#1](https://github.com//ChristianPerez34/AutoCryptoClaimer/issues/1) in [ChristianPerez34/AutoCryptoClaimer](https://github.com//ChristianPerez34/AutoCryptoClaimer)
   <!--END_SECTION:activity-->
 </details>
 
