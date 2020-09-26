@@ -46,8 +46,8 @@
 <details>
   <summary>:zap: Github Activity</summary>
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//ChristianPerez34/Yucktcha/pull/1) in [ChristianPerez34/Yucktcha](https://github.com//ChristianPerez34/Yucktcha)
-2. 🎉 Merged PR [#2](https://github.com//ChristianPerez34/Yucktcha/pull/2) in [ChristianPerez34/Yucktcha](https://github.com//ChristianPerez34/Yucktcha)
+1. 🎉 Merged PR [#1](https://github.com/ChristianPerez34/Yucktcha/pull/1) in [ChristianPerez34/Yucktcha](https://github.com/ChristianPerez34/Yucktcha)
+2. 🎉 Merged PR [#2](https://github.com/ChristianPerez34/Yucktcha/pull/2) in [ChristianPerez34/Yucktcha](https://github.com/ChristianPerez34/Yucktcha)
   <!--END_SECTION:activity-->
 </details>
 
