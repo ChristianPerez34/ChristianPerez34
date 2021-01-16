@@ -39,6 +39,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="ChristianPerez34's Github Stats" src="https://github-readme-stats.christianperez34.vercel.app/api?username=ChristianPerez34&show_icons=true&hide_border=true" />
+  <br/><br/><br/><br/>
 </details>
 
 <br/>
