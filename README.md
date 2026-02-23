@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a Case Management System**
+- 💼 I'm currently working on: **💻 Developing a onlice course app with INprende**
 - 🌱 I'm currently learning: **📚 Exploring Sveltekit**
 - 💬 Ask me about: **💡 JavaScript, Python, Rust, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I enjoy regularly playing video games**
